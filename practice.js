@@ -1,0 +1,2 @@
+function sayGreeting()
+console.log ()
